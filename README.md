@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-Tic Tac Toe by GHP
+Simple Tic Tac Toe game made in python. Feel free to edit
